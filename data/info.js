@@ -22,11 +22,10 @@ const VISI =
   "Terwujudnya Generasi yang Beriman dan Bertaqwa, Berkarakter, Berilmu serta peduli Lingkungan";
 
 const MISI = [
-  "Melaksanakan pembelajaran dan bimbingan secara efektif sehingga setiap siswa berkembang optimal sesuai potensinya.",
-  "Menumbuhkan semangat keunggulan secara intensif kepada seluruh warga sekolah.",
-  "Mendorong setiap siswa mengenali potensi dirinya agar dapat berkembang secara optimal.",
-  "Menumbuhkan penghayatan terhadap ajaran agama dan budaya bangsa sebagai sumber kearifan dalam bertindak.",
-  "Menerapkan manajemen partisipatif dengan melibatkan seluruh warga sekolah dan kelompok kepentingan.",
+  "Meningkatkan keimanan dan ketaqwaan kepada tuhan yang maha esa.",
+  "Mengembangkan pendidikan karakter profil pelajar pancasila",
+  "Melaksanakan pembelajaran berbasis pengetahuan dan keterampilan.",
+  "Menumbuhkan kesadaran peduli lingkungan",
 ];
 
 const SEJARAH =
