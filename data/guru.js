@@ -10,7 +10,7 @@
 // { nama: "Dra. Siti Rahayu, M.Pd", jabatan: "Kepala Sekolah", nip: "196504121990032005", pendidikan: "S2 Manajemen Pendidikan" },
 
 const GURU = [
-  { nama: "Siti Atitulloh, M.Pd",   jabatan: "Kepala Sekolah" },
+  { nama: "Siti Atiulloh, M.Pd",   jabatan: "Kepala Sekolah" },
   { nama: "Sudarmini, S.Pd.SD",     jabatan: "Wali Kelas 1"   },
   { nama: "Debi sinta cahya putri, S.Pd",     jabatan: "Wali Kelas 2"   },
   { nama: "Desi Renilda, S.Pd.SD",     jabatan: "Wali Kelas 3"   },
